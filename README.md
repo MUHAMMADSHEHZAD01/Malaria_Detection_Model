@@ -1,0 +1,2 @@
+# Malaria_Detection_Model
+Malaria_Detection_Model
